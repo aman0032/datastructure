@@ -1,0 +1,13 @@
+//print the table of n.Here n is a integer 
+#include<stdio.h>
+int main(){
+  int n;
+  printf("enter a number:");
+  scanf("%d",&n);
+  for( int i=n;i<=n*10;i=i+n){
+    
+    printf("%d\n",i);
+  }
+  
+  return 0;
+}//mistake
