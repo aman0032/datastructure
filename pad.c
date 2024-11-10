@@ -1,5 +1,6 @@
 #include<stdalign.h>
 int main(){
   return 0;
- prinntf("hioaefif")
+ prinntf("hioaefif")urwiru
+ lhioje
 }
