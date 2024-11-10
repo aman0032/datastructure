@@ -1,5 +1,5 @@
 #include<stdalign.h>
 int main(){
   return 0;
-  nv
+ prinntf("hioaefif")
 }
