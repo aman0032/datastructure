@@ -9,7 +9,6 @@
 int sum(int x,int y){
  //printf("the sum is %d\n",x+y);
   return x+y;
-}
 
 int main(){
   int a =1;
@@ -24,4 +23,4 @@ int main(){
   int g=79;
   sum(d,g);
   sum(34,66);
-}
+}}
